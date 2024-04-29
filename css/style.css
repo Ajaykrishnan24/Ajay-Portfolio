@@ -8151,7 +8151,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #999999; }
+  color: #fff; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -8798,7 +8798,7 @@ h1, h2, h3, h4, h5,
       width: calc(100% - 130px); }
       .ftco-about ul.about-info li span:first-child {
         font-weight: 600;
-        color: #DFFF00;
+        color: #fff;
         width: 130px; }
 
 .ftco-about .counter-wrap .text p {
